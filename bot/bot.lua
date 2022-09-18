@@ -91,7 +91,7 @@ end
 io.write('\n\27[1;33mادخل معرف المطور 👇 \27[0;39;49m\n')
 	local sudouser = io.read()
 	if sudouser =="" then
-  sudouser = "@TH3BOSS"
+  sudouser = "@majeed8888"
 end
 
 	config = {
